@@ -8,6 +8,7 @@ I usually use gitlab for projects 😄, so if you are a recruiter take a look he
 ### Some projects i worked on ⚙
 - [Streamlit dashboard for analysing Truck routes and visualizing traffic](https://gitlab.com/dreesmann.ind/traffic-risk-assessment)
 - [Data Collection, integration, analysis and model building of NYC property sales](https://gitlab.com/dreesmann.ind/nyc-housing-data) 
+- [Genetic Algorithm and Random Search implementation in Java for Job Shop Scheduling](https://gitlab.com/dreesmann.ind/job-shop-scheduling)
 <!--
 **DeemanOne/DeemanOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
