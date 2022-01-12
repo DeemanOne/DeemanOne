@@ -5,8 +5,8 @@ I usually use gitlab for projects 😄, so if you are a recruiter take a look he
 - 🔭 I’m currently working on my Masters degree (Business Intelligence)
 
 
-### Projects ⚙
-Streamlit [dashboard](https://gitlab.com/dreesmann.ind/traffic-risk-assessment) for analysing Truck routes and visualizing traffic
+### Some projects i worked on ⚙
+- Streamlit [dashboard](https://gitlab.com/dreesmann.ind/traffic-risk-assessment) for analysing Truck routes and visualizing traffic
 <!--
 **DeemanOne/DeemanOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
