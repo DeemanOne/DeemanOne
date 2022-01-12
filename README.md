@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I usually use gitlab for projects 😄, so if you are a recruiter take a look here: https://gitlab.com/dreesmann.ind.
+I usually use gitlab for projects 😄, so if you are curious what I'm doing take alook [here](https://gitlab.com/dreesmann.ind)
 
 - 🔭 I’m currently working on my Masters degree (Business Intelligence)
 
